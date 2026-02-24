@@ -1173,7 +1173,7 @@ footer {
 .footer-container .logo-section p{
      /* word-wrap: break-word;
      overflow-wrap: break-word; */
-     word-break: break-all;
+     word-break: break-all;     
      /* white-space: normal; */
      /* white-space: pre-line;   */
 }
